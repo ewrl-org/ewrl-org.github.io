@@ -6,3 +6,6 @@ url: https://github.com/ewrl-org/ewrl
 
 aux_links:
   Github Repository: https://github.com/ewrl-org/ewrl
+
+plugins:
+  - jekyll-redirect-from

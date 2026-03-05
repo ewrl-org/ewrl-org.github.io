@@ -1,6 +1,8 @@
 ---
 title: Home
 layout: home
+redirect_from:
+  - /ewrl/
 nav_order: 1
 ---
 
